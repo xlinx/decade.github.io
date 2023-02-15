@@ -1,5 +1,5 @@
 
-baseURL = "https://decade.github.io/"
+baseURL = "https://xlinx.github.io/decade.github.io"
 languageCode = "zh-tw"
 title = "Personal Digital Garden"
 theme = "digitalgarden"
